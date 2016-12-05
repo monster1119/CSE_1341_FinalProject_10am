@@ -1,5 +1,5 @@
-int w = 50;
-int h = 50;
+int w = 30;
+int h = 30;
 int gbs = 20; //gbs = grid block size
 int snakeSize;
 int xSpeed;

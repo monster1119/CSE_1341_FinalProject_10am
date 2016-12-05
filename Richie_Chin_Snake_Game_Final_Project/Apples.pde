@@ -1,6 +1,7 @@
+
 class Apples {
- int appleX = 12;
- int appleY = 10;
+ int appleX = round(random(1,10));
+ int appleY = round(random(1,10));
  
  void apple() {
   fill(255,0,0);
